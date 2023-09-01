@@ -3,7 +3,6 @@
 
 
 ```
-
   <VirtualHost *:80>
       ServerName 163
       ServerAlias 16
@@ -30,9 +29,7 @@
       ErrorLog ${APACHE_LOG_DIR}/example.com-error.log
       CustomLog ${APACHE_LOG_DIR}/example.com-access.log combined
   </VirtualHost>
-  
   # vim: syntax=apache ts=4 sw=4 sts=4 sr noet
-
 
 ```
 
