@@ -6,8 +6,8 @@
 ```
 
   <VirtualHost *:80>
-      ServerName 163.228.88.173
-      ServerAlias 163.228.88.173
+      ServerName 163
+      ServerAlias 16
       ServerAdmin webmaster@example.com
       DocumentRoot /var/www/example.com/public_html
   
